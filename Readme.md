@@ -7,4 +7,4 @@
 - Questions at the top of the file
 - Commented code
 - Function based solutions
-- Tested code( with test variables)
+- Tested output( with test variables)
